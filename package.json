@@ -19,7 +19,7 @@
   "dependencies": {
     "express": "^4.17.3",
     "nodehog": "^0.1.2",
-    "swagger-ui-express": "^4.2.0",
+    "swagger-ui-express": "^4.6.3",
     "yamljs": "^0.3.0"
   }
 }
