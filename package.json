@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/KubeDev/api-conversao#readme",
   "dependencies": {
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "nodehog": "^0.1.2",
     "swagger-ui-express": "^4.2.0",
     "yamljs": "^0.3.0"
